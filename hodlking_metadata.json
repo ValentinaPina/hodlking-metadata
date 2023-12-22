@@ -2,12 +2,12 @@
   "name": "HodlKing",
   "symbol": "HODLK",
   "description": "A token for representing the strength in holding investments.",
-  "image": "URL_to_image.png",  // Link to the token image
-  "seller_fee_basis_points": 0, // Fee rate for transactions, 100 basis points = 1%
+  "image": "https://github.com/ValentinaPina/hodlking-metadata/blob/main/hodlking%20crown.png?raw=true",
+  "seller_fee_basis_points": 0,
   "properties": {
-    "creators": [ // Optional, details about the creators
+    "creators": [
       {
-        "address": "Your_Solana_Address",
+        "address": "36N7sFw3TpzP3CNc33Mfh22Y2zpqmK2d8vZqFdd15khY", //
         "share": 100
       }
     ]
